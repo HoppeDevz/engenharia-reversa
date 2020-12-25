@@ -1,4 +1,5 @@
-## Engenharia Reversa 🍚
+## 🍚 Engenharia Reversa
+Engenharia reversa é o processo de descobrir os princípios tecnológicos e o funcionamento de um dispositivo, objeto ou sistema, através da análise de sua estrutura, função e operação 
 ## <br>
 
 ### 🧶 Arquitetura de processadores
@@ -16,6 +17,7 @@ No entanto, em linguagens de <strong>baixo nível</strong> como <strong>assembly
 
 ## <br>
 
+### 🥤 Aplicando engenharia reversa em um arquivo C
 ```bash
     touch myc.c
 ```
@@ -45,9 +47,6 @@ No entanto, em linguagens de <strong>baixo nível</strong> como <strong>assembly
 ##### Assim, o kernel faz a mensagem aparecer na tela.
 ##### <br>
 ##### 👉 EXEC -> LIB -> KERNEL(syscalls(linux))
-##### <br>
-##### <br>
-##### <br>
 
 #### 💻 Como ver a função da biblioteca C que foi solicitada pelo arquivo executável.
 
